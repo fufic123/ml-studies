@@ -58,13 +58,6 @@ checkpoints/
 models/
 saved_models/
 
-# Images, videos, etc.
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.mp4
-*.avi
 
 # Jupyter Notebook metadata (if used with Git)
 .ipynb_checkpoints/
