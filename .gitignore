@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python environment config files
+.Python
+*.env
+*.env.*
+
+# Package distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Pytest
+.cache/
+
+# VSCode, PyCharm, and other IDEs
+.vscode/
+.idea/
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.pb
+*.ckpt
+checkpoints/
+models/
+saved_models/
+
+# Images, videos, etc.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# Jupyter Notebook metadata (if used with Git)
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Misc
+.DS_Store
+Thumbs.db
