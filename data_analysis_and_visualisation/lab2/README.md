@@ -91,6 +91,7 @@ MLPClassifier(hidden_layer_sizes=(32, 16), activation='relu', solver='adam', max
 
 
 ![confusion_matrix](confusion_matrix.png)
+
 **Interpretation**
 
 Each row represents the true label, and each column — the predicted label.
